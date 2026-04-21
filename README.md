@@ -90,6 +90,11 @@ END AS Improvement
 
 ---
 
-## 📬 Contact
-For questions or project collaboration:
-**Email:** motsoaripuseletso8@gmai.com
+## 👤 Author  
+**Puseletso Motsoari**  
+
+📧 Email: your.email@example.com  
+🔗 GitHub: https://github.com/your-username  
+💼 LinkedIn: https://linkedin.com/in/your-profile  
+
+---
