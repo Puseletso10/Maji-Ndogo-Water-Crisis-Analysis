@@ -50,10 +50,11 @@ A merged table created for final insights and improvement recommendations.
 - 20.7% of the water sources do not have clean water, 8.2% have clean water and the rest dont have results.
 
 ### More people use shared taps in all Provinces
-![More people use shared taps in all Provinces](https://github.com/Puseletso10/Maji-Ndogo-Water-Crisis/blob/main/image.PNG)
+![Population Analysis](Screenshots/population_analysis.PNG)
+
 
 ### Longer queues on Sartuday than any other day.
-![](https://github.com/Puseletso10/Maji-Ndogo-Water-Crisis/blob/main/image1.PNG)
+![Queue Analysis](Screenshots/queue_analysis.PNG)
 
 
 ## Recommandations
